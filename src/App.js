@@ -2,7 +2,7 @@ import "./App.css";
 
 function App() {
   return (
-    <div className="App">
+    <div className="Wrapper">
       <div className="TouchSurface1">
         <div className="Pointer"></div>
       </div>
